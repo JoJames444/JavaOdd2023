@@ -1,0 +1,6 @@
+Java Requirements
+
+1. Keep an proper notebook
+2. Keep Java installed in your systems
+3. Use Netbeans as an IDE
+4. Manage your experiments in Github
